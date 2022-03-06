@@ -44,7 +44,7 @@
     <br>
     <p align="center">Un message a me faire passer ? <br>
         Contacte moi sur ces reseaux ou je suis le plus actif !</p>
-    <p align="center"><a href="https://twitter.com/RayroLeVrai" target="_blank"><img src="https://img.shields.io/badge/@RayroLeVrai%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/SNtGg2ZuPs" target="_blank"><img src="https://img.shields.io/badge/Rayro.1234%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+    <p align="center"><a href="https://twitter.com/RayroLeVrai" target="_blank"><img src="https://img.shields.io/badge/@RayroLeVrai%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/SNtGg2ZuPs" target="_blank"><img src="https://img.shields.io/badge/Rayro♯1234%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
     <p align="center">  <a href="https://twitch.tv/rayro_twitch" target="_blank"><img src="https://img.shields.io/badge/Rayro_Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
 <br>
