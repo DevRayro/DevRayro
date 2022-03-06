@@ -8,7 +8,7 @@
 <br>
 <div>
     <h2 align="center"> 🌴 ~ 𝔸 𝕡𝕣𝕠𝕡𝕠𝕤 𝕕𝕖 𝕄𝕠𝕚 ~ 🌴 </h2>
-    <img src="https://i.pinimg.com/564x/dc/29/b4/dc29b4e07311a357103bc9dccb078941.jpg" align="left">
+    <img src="https://zupimages.net/up/22/09/n39i.jpg" align="left">
     <li>
         <b>Pseudo :</b> Rayro</li>
     <li>
@@ -29,9 +29,9 @@
     <br>
 </div>  
 <div>
-    <h2 align="left" style="font-size: 24px">                  ~ 📇 𝒞𝕠𝕞𝕡é𝕥𝕖𝕟𝕔𝕖 📇 ~</h2>
+    <h2 align="center" style="font-size: 24px">                  ~ 📇 𝒞𝕠𝕞𝕡é𝕥𝕖𝕟𝕔𝕖 📇 ~</h2>
     <p>
-        <img src="https://i.pinimg.com/originals/3e/e3/f5/3ee3f5ba5c7d0dc53fd5bb30c4021aaa.gif" align="right">
+        <img src="https://share.creavite.co/i5JMpsbefb0852N5.gif" align="left">
 </div>
 <div>
     <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
@@ -39,7 +39,7 @@
         Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design, which i mostly post on Twitter, where a big part my Stuff already is sitting
     </p>
     <br>
-    <h2>                   📝 ~ 𝕄𝕖 𝒞𝕠𝕟𝕥𝕒𝕔𝕥𝕖𝕣 ~ 📝</h2>
+    <h2 align="center" style"font-size: 24px>                   📝 ~ 𝕄𝕖 𝒞𝕠𝕟𝕥𝕒𝕔𝕥𝕖𝕣 ~ 📝</h2>
     <img src="https://i.pinimg.com/564x/65/4c/eb/654ceb73f59389476d4410a722e222ff.jpg" align="right" width="373.5px" height="208.5px">
     <br>
     <p align="center">Hewe awe some of my <br>
