@@ -1,77 +1,71 @@
------
-
-<p align = "center">
-<img src="https://i.imgur.com/i3r2p1b.gif?noredirect">
-</p>
-
------
-### <p align="center">🧠 &nbsp;Moi</p>
+<!DOCTYPE html>
+<body>
+<h1 align="center">- 🎈 𝙱𝚒𝚎𝚗𝚟𝚎𝚗𝚞𝚎 𝚜𝚞𝚛 𝚖𝚘𝚗 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🎈 -</h1>
 <br>
-<p align="center">
-  J'ai 18 ans, je suis en licence d'informatique ! 🙂
-  <br>
-  <br>
-  <br>
-  <img src="https://www.icegif.com/wp-content/uploads/tanjiro-kamado-icegif-6.gif">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <a href="https://www.youtube.com/c/2spyyy">📺 Ma chaîne YouTube 📺</a>
-  <br>
-  <a href="https://discord.gg/wRuMtXdEXB">💬 Retrouve moi sur ce discord | https://discord.gg/wRuMtXdEXB 💬</a>
-  <br>
-  <a href="https://discord.com/api/oauth2/authorize?client_id=828342022091964507&permissions=4294967287&scope=bot">☢ Mon Bot Discord ☢</a>
-  <br>
-</p>
-
------
-### <p align="center">🏆 &nbsp;Mes Compétences</p>
+<div align="center">
+    <img src="https://i.pinimg.com/originals/bd/55/e2/bd55e2965a4c824554915c1b45707780.gif">
+</div>
 <br>
-<p align="center">
- [javascript](https://github.com/DevRayro/DevRayro/raw/main/javascript.png) JavaScript [javascript](https://github.com/DevRayro/DevRayro/raw/main/javascript.png)
-  <br>
-  💠 HTML / Css 💠
-  <br>
-  <br>
-  <br>
-</p>
-
------
-### <p align="center">📈 &nbsp;Mes Objectifs</p>
-<br>
-<p align="center">
-  🐍 Maitrîser le Python 🐍
-  <br>
-  💠 Maitrîser le Développement Web (html/css) 💠
-  <br>
-  🔐 Progresser en Cybersécurité 🔐
-  <br>
-  🎃 Apprendre le JavaScript / HTML / Css / C++ / C# 🎃
-  <br>
-</p>
-
-
------
-### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
-<br>
-<p align="center">
-<a href="https://github.com/DevRayro">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevRayro&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevRayro&layout=compact&langs_count=8&theme=react&locale=fr"/>
-</a>
+<div>
+    <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+    <img src="https://i.pinimg.com/originals/b7/0a/27/b70a273f18fa8ac7b20f873cde3ddfd1.gif" align="right">
+    <li>
+        <b>Name:</b> Lilly</li>
+    <li>
+        <b>Nationality:</b> Pink Fluffy Unicorn
+    </li>
+    <li>
+        <b>Loves:</b> you! and donuts and games maybe -///-
+    </li>
+    <li>
+        <b>Gender:</b> she/her/Female
+    </li>
+    <li>
+        <b>Hobbys:</b> Tech Stuff, Graphics Design, Music
+    </li>
+    <li>
+        <b>Working @:</b> Intave Anticheat & MinetaniaNET
+    </li>
+    <br>
+    <p><b>     Thanks fow weading this onyee-san<br>
+                             verwy cuwute of chu</b></p>
+</div>
   
-</p>
-
------
-
-### <p align="center">👀 &nbsp;Visiteurs</p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<div>
+    <h2 align="left" style="font-size: 24px">                  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+    <p>
+        <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+</div>
+<div>
+    <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+         <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+        Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design, which i mostly post on Twitter, where a big part my Stuff already is sitting
+    </p>
+    <br>
+    <h2>                   📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+    <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+    <br>
+    <p align="center">Hewe awe some of my <br>
+        most used s-s-sociaw things >~< xoxox</p>
+    <p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/MeQwQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+    <p align="center">  <a href="https://twitch.tv/lillykali" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+</div>
 <br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/DevRayro/count.svg" />
-</p>
-<br>
-
------
+    <div>
+        <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+        <div align="center">
+            <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+        </div>
+        <hr>
+    </div>
+</div>
+</body>
