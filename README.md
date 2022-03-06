@@ -43,13 +43,13 @@
     <img src="https://i.pinimg.com/564x/65/4c/eb/654ceb73f59389476d4410a722e222ff.jpg" align="right" width="373.5px" height="208.5px">
     <br>
     <p align="center">Un message a me faire passer ? <br>
-        contacte moi sur ces reseaux ou je suis le plus actif !x</p>
+        Contacte moi sur ces reseaux ou je suis le plus actif !</p>
     <p align="center"><a href="https://twitter.com/RayroLeVrai" target="_blank"><img src="https://img.shields.io/badge/@RayroLeVrai%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/SNtGg2ZuPs" target="_blank"><img src="https://img.shields.io/badge/Rayro#1234%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
     <p align="center">  <a href="https://twitch.tv/rayro_twich" target="_blank"><img src="https://img.shields.io/badge/Rayro_Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
 <br>
     <div>
-        <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+        <h2 align="center">WIP Rebrique ;)</h2>
         <div align="center">
             <img src="">
         </div>
