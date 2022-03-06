@@ -36,7 +36,7 @@
 <div>
     <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
          <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <br><br>
-       Je suis également assez bon dans l'animation et le dessin et surtout le pixel art sur Aseprite ! Je fais aussi du level design pour des rpg.
+       Je suis également assez bon dans l'animation, le dessin et surtout le pixel art sur <a href="https://www.aseprite.org">Aseprite</a> ! Je fais aussi du level design pour des rpg.
     </p>
     <br>
     <h2 align="center" style"font-size: 24px>                   📝 ~ 𝕄𝕖 𝒞𝕠𝕟𝕥𝕒𝕔𝕥𝕖𝕣 ~ 📝</h2>
