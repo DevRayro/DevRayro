@@ -1,45 +1,33 @@
 <!DOCTYPE html>
 <body>
-<h1 align="center">- 🎈 𝙱𝚒𝚎𝚗𝚟𝚎𝚗𝚞𝚎 𝚜𝚞𝚛 𝚖𝚘𝚗 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🎈 -</h1>
+<h1 align="center">╭───── 🎋 𝙱𝚒𝚎𝚗𝚟𝚎𝚗𝚞𝚎 𝚜𝚞𝚛 𝚖𝚘𝚗 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🎋─────╮</h1>
 <br>
 <div align="center">
     <img src="https://i.pinimg.com/originals/bd/55/e2/bd55e2965a4c824554915c1b45707780.gif">
 </div>
 <br>
 <div>
-    <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+    <h2 align="center"> 🌴 ~ 𝔸 𝕡𝕣𝕠𝕡𝕠𝕤 𝕕𝕖 𝕄𝕠𝕚 ~ 🌴 </h2>
     <img src="https://i.pinimg.com/originals/b7/0a/27/b70a273f18fa8ac7b20f873cde3ddfd1.gif" align="right">
     <li>
-        <b>Name:</b> Lilly</li>
+        <b>Pseudo :</b> Rayro</li>
     <li>
-        <b>Nationality:</b> Pink Fluffy Unicorn
+        <b>Nationalité :</b> France 🟦⬜🟥
     </li>
     <li>
-        <b>Loves:</b> you! and donuts and games maybe -///-
+        <b>Genre :</b> Male 👨🏽
     </li>
     <li>
-        <b>Gender:</b> she/her/Female
+        <b>Passion :</b> Informatique, Design Graphique, Musique
     </li>
     <li>
-        <b>Hobbys:</b> Tech Stuff, Graphics Design, Music
-    </li>
-    <li>
-        <b>Working @:</b> Intave Anticheat & MinetaniaNET
+        <b>Projet :</b> Aucun... :(
     </li>
     <br>
-    <p><b>     Thanks fow weading this onyee-san<br>
-                             verwy cuwute of chu</b></p>
-</div>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+    <br>
+    <br>
+    <br>
+</div>  
 <div>
     <h2 align="left" style="font-size: 24px">                  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
     <p>
