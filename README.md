@@ -48,12 +48,24 @@
     <p align="center">  <a href="https://twitch.tv/rayro_twitch" target="_blank"><img src="https://img.shields.io/badge/Rayro_Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
 <br>
-    <div>
-        <h2 align="center">WIP Rebrique ;)</h2>
-        <div align="center">
-            <img src="">
-        </div>
-        <hr>
-    </div>
-</div>
+<h2 align="center" style="font-size: 24px">                      ⚙️ ~ 𝕄𝕖𝕤 𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕢𝕦𝕖𝕤 ~ ⚙️</h2>
+<br>
+<p align="center">
+<a href="https://github.com/DevRayro">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevRayro&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevRayro&layout=compact&langs_count=8&theme=react&locale=fr"/>
+</a>
+  
+</p>
+
+-----
+
+<h2 align="center" style="font-size: 24px">                      👀 ~ 𝕍𝕚𝕤𝕚𝕥𝕖𝕦𝕣𝕤 ~ 👀</h2>
+<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/DevRayro/count.svg" />
+</p>
+<br>
+
+-----
 </body>
