@@ -31,7 +31,7 @@
 <div>
     <h2 align="center" style="font-size: 24px">                  ~ 📇 𝒞𝕠𝕞𝕡é𝕥𝕖𝕟𝕔𝕖 📇 ~</h2>
     <p>
-        <img src="https://share.creavite.co/i5JMpsbefb0852N5.gif" align="left">
+        <img src="https://camo.githubusercontent.com/985672972c1be1898b241fe7ad16d1bed20a892373774340f2aac98d33c45c4a/68747470733a2f2f73686172652e63726561766974652e636f2f69354a4d707362656662303835324e352e676966" align="left">
 </div>
 <div>
     <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
