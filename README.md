@@ -21,7 +21,7 @@
         <b>Passion :</b> Informatique, Design Graphique, Musique
     </li>
     <li>
-        <b>Projet :</b> Aucun... :(
+        <b>Projet :</b> Crée une IA!
     </li>
     <br>
     <br>
