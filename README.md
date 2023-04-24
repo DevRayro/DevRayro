@@ -1,11 +1,10 @@
-<!DOCTYPE### Hi, I'm TakeFy 👋
+### Hi, I'm Rayro 👋
 
 
 ## 👨‍🎓 About me!
 
 - 📚 I live and study in France
-- 🥅 2022 Goals: learn java, c#
-- 🖥 I'm using Webstorm
+- 🥅 2023 Goals: learn java, c++
 
 
 <br />
@@ -36,4 +35,4 @@
   <summary>:zap: GitHub Stats</summary><br/>
 
 
-  <img align="left" alt="TakeFy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=takefy-dev&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="DevRayro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=takefy-dev&show_icons=true&hide_border=true&theme=tokyonight" />
